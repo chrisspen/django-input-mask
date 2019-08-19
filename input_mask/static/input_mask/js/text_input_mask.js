@@ -40,6 +40,10 @@
             if (opts.allowZero || input.val() != '') {
                 input.maskMoney('mask');
             }
+
+            if (input.is('[readonly]')) {
+                input.maskMoney('destroy');
+            }
         }
     });
 
