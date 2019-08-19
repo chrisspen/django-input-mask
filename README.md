@@ -8,7 +8,7 @@ A collection of easy-to-extend-widgets for applying masks to input elements.
 Status
 ------
 
-[![Build Status](https://travis-ci.org/caioariede/django-input-mask.svg?branch=master)](https://travis-ci.org/caioariede/django-input-mask)
+[![Build Status](https://travis-ci.org/chrisspen/django-input-mask.svg?branch=master)](https://travis-ci.org/chrisspen/django-input-mask)
 
 Compatibility
 -------------
